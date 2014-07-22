@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/test3">
+        <file>qml/test3/Button.qml</file>
+        <file>qml/test3/DrawingGame.qml</file>
+        <file>qml/test3/main.qml</file>
+        <file>qml/test3/MainWindow.qml</file>
+        <file>qml/test3/Tools.js</file>
+        <file>data/levels.txt</file>
+    </qresource>
+</RCC>
